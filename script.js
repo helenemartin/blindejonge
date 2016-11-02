@@ -1,5 +1,5 @@
-setTimeout(fade_out, 100);
+// setTimeout(fade_out, 100);
 
-function fade_out() {
-  $(".clearfix contact").fadeOut().empty();
-}
+// function fade_out() {
+//   $(".clearfix contact").fadeOut().empty();
+// }
